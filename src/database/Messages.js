@@ -1,3 +1,5 @@
+const UserName = "Deer Hacks";
+
 // Key is announcement ID and value is a list of messages ordered by datetime
 const Messages = {
     0: [
