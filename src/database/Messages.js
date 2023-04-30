@@ -1,7 +1,7 @@
-const UserName = "Deer Hacks";
+export const UserName = "Deer Hacks";
 
 // Key is announcement ID and value is a list of messages ordered by datetime
-const Messages = {
+export const Messages = {
     0: [
         {
             datetime: new Date("2023-04-28T17:30:00"),
